@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+h1{
+  text-align: center;
+}
+
+.screamapillar{
+  padding: 5.5% 2% 0;
+}
+
+.text-well{
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.25em;
+}
+
+footer{
+  background-color: #6A0888;
+  color: white;
+  text-align: center;
+  padding: 1% 0;
+}
